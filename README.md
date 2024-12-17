@@ -1,4 +1,4 @@
-# Hi, I'm Abubakar! [Software developer, Business Intelligence Analyst/Data Analyst Enthusiast]()
+# Hi, I'm Abubakar! [Software developer, Business Intelligence/Data Analyst Enthusiast]()
 
 As an experience Software Developer, my journey into the world of Business Intelligence/Data Analyst represents a deliberate and structured transition driven by a passion
 for technology and a desire for professional growth. With solid foundation in software development, I am now embarking on a path towards Data Analytics and Business Intelligence, 
