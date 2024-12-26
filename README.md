@@ -11,8 +11,8 @@ guided by a commitment to structured hands-on learning, relevant certifications,
 - [Manufacturing Downtime](https://github.com/princeabdul99/soda_bottling_production_line)
 
 ## 🥇 Certifications:
-**15 days of power BI - Complete Microsoft Power BI Bootcamp - Udemy**
-*Credential ID:  UC-85838-T03EUPDAT3D*
+**⚡ 15 days of power BI - Complete Microsoft Power BI Bootcamp - Udemy**
+Certificate no:  UC-6800150c-1546-4a90-a543-8d80abb333a6
 
 
 
