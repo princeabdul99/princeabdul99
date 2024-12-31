@@ -11,8 +11,7 @@ guided by a commitment to structured hands-on learning, relevant certifications,
 - [Hospital Patient Records]() **(In-development)**
 
 ## 🥇 Certifications:
-**⚡ 15 days of power BI - Complete Microsoft Power BI Bootcamp - Udemy**
-Certificate no:  UC-6800150c-1546-4a90-a543-8d80abb333a6
+**⚡ [15 days of power BI - Complete Microsoft Power BI Bootcamp - Udemy](https://www.udemy.com/certificate/UC-6800150c-1546-4a90-a543-8d80abb333a6/)** - **Certificate no**:  UC-6800150c-1546-4a90-a543-8d80abb333a6
 
 
 
