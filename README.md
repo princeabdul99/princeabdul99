@@ -7,7 +7,6 @@ guided by a commitment to structured hands-on learning, relevant certifications,
 
 ## :chart_with_upwards_trend: Business Intelligence/Data Analytics Projects:
 **Power BI :**
-- [Haloween Candy Rankings]()
 - [Manufacturing Downtime](https://github.com/princeabdul99/soda_bottling_production_line)
 
 ## 🥇 Certifications:
