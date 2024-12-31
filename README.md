@@ -8,7 +8,7 @@ guided by a commitment to structured hands-on learning, relevant certifications,
 ## :chart_with_upwards_trend: Business Intelligence/Data Analytics Projects:
 **Power BI :**
 - [Manufacturing Downtime](https://github.com/princeabdul99/soda_bottling_production_line)
-- [Hospital Patient Records]() **(In-development)**
+- [Hospital Patient Records](https://github.com/princeabdul99/hospital_patient_records) **(In-development)**
 
 ## 🥇 Certifications:
 **⚡ [15 days of power BI - Complete Microsoft Power BI Bootcamp - Udemy](https://www.udemy.com/certificate/UC-6800150c-1546-4a90-a543-8d80abb333a6/)** - **Certificate no**:  UC-6800150c-1546-4a90-a543-8d80abb333a6
