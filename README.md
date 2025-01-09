@@ -24,7 +24,7 @@ guided by a commitment to structured hands-on learning, relevant certifications,
 
 ### Tech Toolbox 📫
 - Language: MySQL, MongoDB, Apache, Sqlite, Hive
-- Tool: GIT, Power BI
+- Tool: GIT, Power BI, Chat Gpt
 
 ### Education ⚡
 - Bachelor of Science in Information Technology  
