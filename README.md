@@ -1,12 +1,18 @@
 # 👋 Hello, I'm Abubakar! 
 
-## ⚡ Software developer, Business Intelligence/Data Analyst Enthusiast    
+## Software developer, Business Intelligence/Data Analyst Enthusiast 
+<!---
+## ⚡ Software developer, Business Intelligence/Data Analyst Enthusiast 
+--->
 
 👀 Cebu City. Philippines   
 💞️ Email: abuabdu99@gmail.com  
 📫 LinkedIn: [![Linkedin](https://i.sstatic.net/gVE0j.png)](https://www.linkedin.com/in/abubakar-abdullahi/)  
 
+## About Me 
+<!---
 ## About Me 😄
+--->
 As an experience Software Developer, my journey into the world of Business Intelligence/Data Analyst represents a deliberate and structured transition driven by a passion
 and a desire for professional growth. With solid foundation in software development, I am now embarking on a path towards Data Analytics and Business Intelligence, 
 guided by a commitment to structured hands-on learning, relevant certifications, and mentorship from seasoned prefessionals in the field.
@@ -19,11 +25,13 @@ guided by a commitment to structured hands-on learning, relevant certifications,
 
 
 ### Professional Highlights ✨
-- Flutter Developer - ESAT PILIPINAS TEKNIK, Inc. Philippines (March 2023 - Oct 2024)
-- Junior Web Developer - Unravel Studios Pte Ltd. Singapore (Dec 2020 - March 2023)
+- Flutter Developer - ESAT PILIPINAS TEKNIK, Inc. Philippines (Jan 2023 - Oct 2024)
+- Junior Web Developer - Unravel Studios Pte Ltd. Singapore (Dec 2020 - Sep 2022)
 
 ### Tech Toolbox 📫
-- Language: MySQL, MongoDB, Apache, Sqlite, Hive
+- Language: MySQL, MongoDB, Apache, Sqlite, Hive  
+  Dart, Flutter  
+  PHP, React, HTML, CSS/SCSS
 - Tool: GIT, Power BI, Chat Gpt
 
 ### Education ⚡
