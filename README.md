@@ -20,8 +20,9 @@ guided by a commitment to structured hands-on learning, relevant certifications,
 
 ## Business Intelligence/Data Analytics Projects: :chart_with_upwards_trend: 
 **Power BI :**
-- [Manufacturing Downtime](https://github.com/princeabdul99/soda_bottling_production_line)
 - [Bank Customer Churn](https://github.com/princeabdul99/bank_customer)
+- [Manufacturing Downtime](https://github.com/princeabdul99/soda_bottling_production_line)
+
 
 
 ### Professional Highlights ✨
