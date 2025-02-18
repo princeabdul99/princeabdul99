@@ -10,13 +10,14 @@
 📫 LinkedIn: [![Linkedin](https://i.sstatic.net/gVE0j.png)](https://www.linkedin.com/in/abubakar-abdullahi/)  
 
 ## About Me 
+I am a passionate Power BI developer dedicated to transforming raw data into meaningful insights. With a strong analytical mindset and expertise in data visualization, I help businesses uncover hidden value and make data-driven decisions—ultimately assisting them in finding insights and unlocking opportunities within troves of data.
 <!---
 ## About Me 😄
---->
+
 As an experience Software Developer, my journey into the world of Business Intelligence/Data Analyst represents a deliberate and structured transition driven by a passion
 and a desire for professional growth. With solid foundation in software development, I am now embarking on a path towards Data Analytics and Business Intelligence, 
 guided by a commitment to structured hands-on learning, relevant certifications, and mentorship from seasoned prefessionals in the field.
-
+--->
 
 ## Business Intelligence/Data Analytics Projects: :chart_with_upwards_trend: 
 **Power BI :**
