@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Abubakar! 
 
-## Software developer, Business Intelligence/Data Analyst Enthusiast 
+## Power BI developer, Business Intelligence/Data Analyst Enthusiast 
 <!---
 ## ⚡ Software developer, Business Intelligence/Data Analyst Enthusiast 
 --->
@@ -25,7 +25,22 @@ guided by a commitment to structured hands-on learning, relevant certifications,
 - [Manufacturing Downtime](https://github.com/princeabdul99/soda_bottling_production_line)
 
 
+### Skill Highlights✨
+- **Data Modeling & Optimization**: Proficient in normalizing and denormalizing data models to balance storage efficiency and query performance. Experience with dimensional modeling, star/snowflake schemas, and role-playing dimensions to build scalable, intuitive models.
+- **Advanced Calculations & Business Logic**: Apply best practices for DAX calculations, flags, and indicators. Skilled in time intelligence functions for trend analysis, rolling averages, and year-over-year comparisons.
+- **Performance Tuning**: Identify and resolve performance bottlenecks through relationship optimization, cardinality adjustments, and model simplifications. Expertise in creating composite models for hybrid data access.
+- **Problem-Solving & Analytical Modeling**: Solve complex business challenges, including multi-fact data models (e.g., budgeting scenarios with multiple fact tables) and dynamic grouping through binning and key-value tables to support diverse business requirements.
+- **ETL & Data Transformation**: Hands-on experience with ETL processes, transforming raw data into clean, analysis-ready tables. Knowledge of Power Query, dataflows, and best practices for data ingestion.
+- **Comprehensive BI Solutions**: Design and implement end-to-end BI solutions, integrating multiple data sources, handling slowly changing dimensions, and delivering actionable insights through interactive Power BI dashboards.
 
+### Tech Toolbox 📫
+- Power BI Desktop, Power BI Service, Power Query, DAX Studio, Tabular Editor.
+- Excel, SQL Server Management Studio (SSMS), SQL Server Integration Services (SSIS)
+- Performance Analyzer
+- Git, Chat GPT
+- Measure Killer
+
+<!---
 ### Professional Highlights ✨
 - Flutter Developer - ESAT PILIPINAS TEKNIK, Inc. Philippines (Jan 2023 - Oct 2024)
 - Junior Web Developer - Unravel Studios Pte Ltd. Singapore (Dec 2020 - Sep 2022)
@@ -35,6 +50,7 @@ guided by a commitment to structured hands-on learning, relevant certifications,
   Dart, Flutter  
   PHP, React, HTML, CSS/SCSS
 - Tool: GIT, Power BI, Chat Gpt
+--->
 
 ### Education ⚡
 - Bachelor of Science in Information Technology  
