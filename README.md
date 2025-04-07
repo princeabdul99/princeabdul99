@@ -18,10 +18,9 @@ As an experience Software Developer, my journey into the world of Business Intel
 and a desire for professional growth. With solid foundation in software development, I am now embarking on a path towards Data Analytics and Business Intelligence, 
 guided by a commitment to structured hands-on learning, relevant certifications, and mentorship from seasoned prefessionals in the field.
 --->
-## Data Engineer Projects: :chart_with_upwards_trend: 
+## Data Engineer Projects:'🏗
 **Data Warehousing:**
-- [Enterprise Data Warehouse for Fashion Retail Analytics](https://github.com/princeabdul99/bank_customer)
-
+- ✅ [**Enterprise Data Warehouse for Fashion Retail Analytics:**](https://github.com/princeabdul99/Design-and-Deployment-of-a-Fashion-Retail-Data-Warehouse)
 
 
 ## Business Intelligence/Data Analytics Projects: :chart_with_upwards_trend: 
