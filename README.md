@@ -14,7 +14,7 @@ Whether it's designing efficient data models, automating data flows, or uncoveri
 
 ## 🏗 Data Engineer
 **Data Warehousing & ETL:**
-- ✅ [**Global Fashion Retail Reimagined Through Data Warehousing:**](https://github.com/princeabdul99/Design-and-Deployment-of-a-Fashion-Retail-Data-Warehouse)
+- ✅ [**Global Fashion Retail Reimagined Through Data Warehousing:**](https://github.com/princeabdul99/Global-Fashion-Retail-Reimagined-Through-Data-Warehousing)
 
 
 ## :chart_with_upwards_trend: Data Analytics 
