@@ -12,12 +12,12 @@ Whether it's designing efficient data models, automating data flows, or uncoveri
 ---
 ## Professional Projects
 
-## 🏗 Data Engineer
+### 🏗 Data Engineer
 **Data Warehousing & ETL:**
 - ✅ [**Global Fashion Retail Reimagined Through Data Warehousing:**](https://github.com/princeabdul99/Global-Fashion-Retail-Reimagined-Through-Data-Warehousing)
 
 
-## :chart_with_upwards_trend: Data Analytics 
+### :chart_with_upwards_trend: Data Analytics 
 **Power BI :**
 - [Bank Customer Churn](https://github.com/princeabdul99/bank_customer)
 - [Manufacturing Downtime](https://github.com/princeabdul99/soda_bottling_production_line)
