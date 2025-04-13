@@ -1,4 +1,4 @@
-## About Me 
+## About Me 🌟
 👋 Hello, I'm **Abubakar Abdullahi**. I'm a data professional passionate about building robust data solutions that drive business insights and efficiency.
 
 With a solid foundation in SQL development, data architecture, and ETL pipeline design, I specialize in turning raw data into structured, actionable information. My experience spans across data engineering, data modeling, and data analytics, enabling me to design scalable systems that support accurate reporting and informed decision-making.
