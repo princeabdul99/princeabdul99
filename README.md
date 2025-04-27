@@ -14,8 +14,9 @@ Whether it's designing efficient data models, automating data flows, or uncoveri
 
 ### 🏗 Data Engineer
 **Data Warehousing & ETL:**
+- ✅ [**End-to-End Insurance Claims Analytics Using Azure Lakehouse Architecture**]()
 - ✅ [**Global Fashion Retail Reimagined Through Data Warehousing:**](https://github.com/princeabdul99/Global-Fashion-Retail-Reimagined-Through-Data-Warehousing)
-
+  
 
 ### :chart_with_upwards_trend: Data Analytics 
 **Power BI :**
@@ -25,6 +26,7 @@ Whether it's designing efficient data models, automating data flows, or uncoveri
 ---
 
 ### 🎯 Skill Highlights
+- Microsoft Azure
 - SQL Development
 - Data Architecture
 - Data Engineering
@@ -33,11 +35,16 @@ Whether it's designing efficient data models, automating data flows, or uncoveri
 - Data Analytics
 ---
 ###  📫 Tech Toolbox
+- Azure Data Factory
+- Azure Databricks
+- Azure Synapse Analytics,
 - SQL Server Management Studio (SSMS)
 - SQL Server Integration Services (SSIS)
 - Power BI
 - Git
 - Chat GPT
+- Draw.io
+- Notion
 
 ---
 
