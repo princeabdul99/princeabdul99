@@ -26,6 +26,7 @@ Whether it's designing efficient data models, automating data flows, or uncoveri
 ---
 
 ### 🎯 Skill Highlights
+- Snow Flake
 - Microsoft Azure
 - SQL Development
 - Data Architecture
@@ -35,6 +36,8 @@ Whether it's designing efficient data models, automating data flows, or uncoveri
 - Data Analytics
 ---
 ###  📫 Tech Toolbox
+- Snowpipe
+- Snowpark 
 - Azure Data Factory
 - Azure Databricks
 - Azure Synapse Analytics,
