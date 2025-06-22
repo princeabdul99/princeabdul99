@@ -1,10 +1,14 @@
 ## About Me 🌟
-👋 Hello, I'm **Abubakar Abdullahi**. I'm a data professional passionate about building robust data solutions that drive business insights and efficiency.
+👋 Hello, I'm **Abubakar Abdullahi**. I’m a Data Engineer with a strong background in building scalable, cloud-native data pipelines and modern data infrastructure.
 
-With a solid foundation in SQL development, data architecture, and ETL pipeline design, I specialize in turning raw data into structured, actionable information. My experience spans across data engineering, data modeling, and data analytics, enabling me to design scalable systems that support accurate reporting and informed decision-making.
+My focus is on transforming raw data into reliable, analytics-ready datasets that empower business intelligence and decision-making. I specialize in automating ETL workflows, optimizing cloud data platforms like Snowflake and AWS, and delivering high-performance reporting solutions.
 
-Whether it's designing efficient data models, automating data flows, or uncovering insights through analytics, I thrive on solving complex data challenges and delivering real value through clean, well-structured data solutions.
+Whether it's integrating diverse data sources, designing data models, or streamlining infrastructure with CI/CD and monitoring, I take pride in delivering clean, efficient, and maintainable solutions. I bring a software engineering mindset into every data project, always aiming for simplicity, scalability, and impact.
 
+
+🔧 Tools I use: Python, SQL, Snowflake, AWS (S3, SNS/SQS), GitHub Actions   
+📊 Areas of expertise: Data Warehousing, Pipeline Automation, Data Modeling, Cloud Integration   
+🌍 Available for: Collaborations, open-source contributions, and impactful data projects  
 👀 Cebu City. Philippines   
 💞️ Email: abuabdu99@gmail.com  
 📫 LinkedIn: [![Linkedin](https://i.sstatic.net/gVE0j.png)](https://www.linkedin.com/in/abubakar-abdullahi/)  
