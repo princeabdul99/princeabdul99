@@ -14,6 +14,7 @@ Whether it's designing efficient data models, automating data flows, or uncoveri
 
 ### 🏗 Data Engineer
 **Data Warehousing & ETL:**
+- ✅ [**Designing a Scalable Data Infrastructure for Global Fashion Retail:**](https://github.com/princeabdul99/global_fashion_retail_dwh_snowflake)
 - ✅ [**End-to-End Insurance Claims Analytics Using Azure Lakehouse Architecture**](https://github.com/princeabdul99/End-to-End-Insurance-Claims-Analytics-Using-Azure-Lakehouse-Architecture)
 - ✅ [**Global Fashion Retail Reimagined Through Data Warehousing:**](https://github.com/princeabdul99/Global-Fashion-Retail-Reimagined-Through-Data-Warehousing)
   
