@@ -14,6 +14,13 @@ Whether it's integrating diverse data sources, designing data models, or streaml
 📫 LinkedIn: [![Linkedin](https://i.sstatic.net/gVE0j.png)](https://www.linkedin.com/in/abubakar-abdullahi/)  
 
 ---
+## Professional Skills
+- ✅ Data Engineering: ETL/ELT Pipelines, Data Modeling, Data Warehousing, SQL Optimization
+- ✅ Cloud Platforms: AWS (S3, SNS/SQS), Snowflake
+- ✅ Languages/Tools: Python, SQL, GitHub, VS Code
+- ✅ Others: Pipeline Monitoring, Data Validation, Automation, CI/CD
+
+---
 ## Professional Projects
 
 ### 🏗 Data Engineer
