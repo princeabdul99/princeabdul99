@@ -1,12 +1,12 @@
 ## About Me 🌟
 👋 Hello, I'm **Abubakar Abdullahi**. I’m a Data Engineer with a strong background in building scalable, cloud-native data pipelines and modern data infrastructure.
 
-My focus is on transforming raw data into reliable, analytics-ready datasets that empower business intelligence and decision-making. I specialize in automating ETL workflows, optimizing cloud data platforms like Snowflake and AWS, and delivering high-performance reporting solutions.
+My focus is on transforming raw data into reliable, analytics-ready datasets that empower business intelligence and decision-making. I specialize in automating ETL workflows, optimizing cloud data platforms like AWS, GCP and Snowflake, and delivering high-performance reporting solutions.
 
 Whether it's integrating diverse data sources, designing data models, or streamlining infrastructure with CI/CD and monitoring, I take pride in delivering clean, efficient, and maintainable solutions. I bring a software engineering mindset into every data project, always aiming for simplicity, scalability, and impact.
 
 
-🔧 Tools I use: Python, SQL, Snowflake, AWS (S3, SNS/SQS), GitHub Actions   
+🔧 Tools I use: Python, SQL, GCP, Snowflake, AWS (S3, SNS/SQS), GitHub Actions, Apache Airflow, DBT   
 📊 Areas of expertise: Data Warehousing, Pipeline Automation, Data Modeling, Cloud Integration   
 🌍 Available for: Collaborations, open-source contributions, and impactful data projects  
 👀 Cebu City. Philippines   
@@ -16,7 +16,7 @@ Whether it's integrating diverse data sources, designing data models, or streaml
 ---
 ## Professional Skills
 - ✅ Data Engineering: ETL/ELT Pipelines, Data Modeling, Data Warehousing, SQL Optimization
-- ✅ Cloud Platforms: AWS (S3, SNS/SQS), Snowflake
+- ✅ Cloud Platforms: AWS (S3, SNS/SQS), GCP, Snowflake
 - ✅ Languages/Tools: Python, SQL, GitHub, VS Code
 - ✅ Others: Pipeline Monitoring, Data Validation, Automation, CI/CD
 
@@ -38,23 +38,22 @@ Whether it's integrating diverse data sources, designing data models, or streaml
 ---
 
 ### 🎯 Skill Highlights
-- Snow Flake
-- Microsoft Azure
-- SQL Development
-- Data Architecture
 - Data Engineering
 - ETL Pipeline Development
 - Data Modeling
+- SnowFlake
+- Microsoft Azure
+- SQL Development
+- Data Architecture
 - Data Analytics
 ---
 ###  📫 Tech Toolbox
+- Airflow
+- DBT
+- BigQuery
 - Snowpipe
 - Snowpark 
 - Azure Data Factory
-- Azure Databricks
-- Azure Synapse Analytics,
-- SQL Server Management Studio (SSMS)
-- SQL Server Integration Services (SSIS)
 - Power BI
 - Git
 - Chat GPT
@@ -69,10 +68,18 @@ Whether it's integrating diverse data sources, designing data models, or streaml
 ---
 
 ## 🥇 Certifications 
-[15 days of power BI - Complete Microsoft Power BI Bootcamp - Udemy](https://www.udemy.com/certificate/UC-6800150c-1546-4a90-a543-8d80abb333a6/)  
+[SQL For Data Engineering](https://drive.google.com/file/d/1OR4HulxiXq3JB4AVpU81uXKsL-nOaG2H/view?usp=drive_link)
+
+[Apache Airflow](https://drive.google.com/file/d/1gW_XyEsahyOYrf5n7uLvru3zdqunxwaq/view?usp=drive_link)
+
+[Data Modeling for Power BI](https://drive.google.com/file/d/1vLja8B41e-QlaC6mZwgJxcHjkihz9aUR/view?usp=drive_link)
+
+[Snowflake Platform Training - APAC](https://drive.google.com/file/d/1j6LtmPChPezItS0dSK43O3rxB7E5ogys/view?usp=drive_link)
+
+[Microsoft Power BI Bootcamp - Udemy](https://www.udemy.com/certificate/UC-6800150c-1546-4a90-a543-8d80abb333a6/)  
    Certificate no:  UC-6800150c-1546-4a90-a543-8d80abb333a6
 
-[Data Modeling for Power BI](https://drive.google.com/file/d/1vLja8B41e-QlaC6mZwgJxcHjkihz9aUR/view?usp=drive_link)   
+ 
 
 
 
