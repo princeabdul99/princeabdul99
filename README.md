@@ -6,8 +6,8 @@ My focus is on transforming raw data into reliable, analytics-ready datasets tha
 Whether it's integrating diverse data sources, designing data models, or streamlining infrastructure with CI/CD and monitoring, I take pride in delivering clean, efficient, and maintainable solutions. I bring a software engineering mindset into every data project, always aiming for simplicity, scalability, and impact.
 
 
-🔧 Tools I use: Python, SQL, GCP, Snowflake, AWS (S3, SNS/SQS), GitHub Actions, Apache Airflow, DBT   
-📊 Areas of expertise: Data Warehousing, Pipeline Automation, Data Modeling, Cloud Integration   
+🔧 Tools I use: **Python**, **SQL**, **GCP**, **Snowflake**, **AWS (S3, SNS/SQS)**, **GitHub Actions**, **Apache Airflow**, **DBT**  
+📊 Areas of expertise: **Data Warehousing**, **Pipeline Automation**, **Data Modeling**, **Cloud Integration**   
 🌍 Available for: Collaborations, open-source contributions, and impactful data projects  
 👀 Cebu City. Philippines   
 💞️ Email: abuabdu99@gmail.com  
