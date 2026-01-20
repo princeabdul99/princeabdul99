@@ -17,7 +17,7 @@ Whether it's integrating diverse data sources, designing data models, or streaml
 ## Professional Skills
 - ✅ Data Engineering: ETL/ELT Pipelines, Data Modeling, Data Warehousing, SQL Optimization
 - ✅ Cloud Platforms: AWS (S3, SNS/SQS), GCP, Snowflake
-- ✅ Languages/Tools: Python, SQL, GitHub, VS Code
+- ✅ Languages/Tools: Python, SQL, GitHub, VS Code, BigQuery, Docker
 - ✅ Others: Pipeline Monitoring, Data Validation, Automation, CI/CD
 
 ---
@@ -25,10 +25,13 @@ Whether it's integrating diverse data sources, designing data models, or streaml
 
 ### 🏗 Data Engineer
 **Data Warehousing & ETL:**
+- ✅ [**End-to-End Data Engineering Pipeline on Google Cloud Platform (GCP)**](https://github.com/princeabdul99/gcp_global_fashion_data_pipeline)
 - ✅ [**Designing a Scalable Data Infrastructure for Global Fashion Retail (Snowflake)**](https://github.com/princeabdul99/global_fashion_retail_dwh_snowflake)
 - ✅ [**End-to-End Insurance Claims Analytics Using Azure Lakehouse Architecture**](https://github.com/princeabdul99/End-to-End-Insurance-Claims-Analytics-Using-Azure-Lakehouse-Architecture)
 - ✅ [**Global Fashion Retail Reimagined Through Data Warehousing:**](https://github.com/princeabdul99/Global-Fashion-Retail-Reimagined-Through-Data-Warehousing)
-  
+
+
+  End-to-End Data Engineering Pipeline on GCP
 
 ### :chart_with_upwards_trend: Data Analytics 
 **Power BI :**
