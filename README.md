@@ -31,8 +31,6 @@ Whether it's integrating diverse data sources, designing data models, or streaml
 - ✅ [**Global Fashion Retail Reimagined Through Data Warehousing:**](https://github.com/princeabdul99/Global-Fashion-Retail-Reimagined-Through-Data-Warehousing)
 
 
-  End-to-End Data Engineering Pipeline on GCP
-
 ### :chart_with_upwards_trend: Data Analytics 
 **Power BI :**
 - [Bank Customer Churn](https://github.com/princeabdul99/bank_customer)
