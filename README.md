@@ -1,13 +1,13 @@
 ## About Me 🌟
 👋 Hello, I'm **Abubakar Abdullahi**. I’m a Data Engineer with a strong background in building scalable, cloud-native data pipelines and modern data infrastructure.
 
-My focus is on transforming raw data into reliable, analytics-ready datasets that empower business intelligence and decision-making. I specialize in automating ETL workflows, optimizing cloud data platforms like AWS, GCP and Snowflake, and delivering high-performance reporting solutions.
+My focus is on transforming raw data into reliable, analytics-ready datasets that empower business intelligence and decision-making. I specialize in automating ETL/ELT workflows, optimizing cloud data platforms like Azure, AWS, GCP, Databricks, and Snowflake, and delivering high-performance reporting solutions.
 
 Whether it's integrating diverse data sources, designing data models, or streamlining infrastructure with CI/CD and monitoring, I take pride in delivering clean, efficient, and maintainable solutions. I bring a software engineering mindset into every data project, always aiming for simplicity, scalability, and impact.
 
 
-🔧 Tools I use: **Python**, **SQL**, **GCP**, **Snowflake**, **AWS (S3, SNS/SQS)**, **GitHub Actions**, **Apache Airflow**, **DBT**  
-📊 Areas of expertise: **Data Warehousing**, **Pipeline Automation**, **Data Modeling**, **Cloud Integration**   
+🔧 Tools I use: **Python**, **SQL**, **Databricks**, **Azure**, **Azure DevOps**, **GCP**, **Snowflake**,  **AWS (S3, SNS/SQS)**, **GitHub Actions**, **Apache Airflow**, **DBT**  
+📊 Areas of expertise: **Data Warehousing**, **Pipeline Automation**, **Data Modeling**, **Cloud Integration**, **Lakehouse Architecture (Databricks/Delta Lake)**, **CI/CD for Data Pipelines**  
 🌍 Available for: Collaborations, open-source contributions, and impactful data projects  
 👀 Cebu City. Philippines   
 💞️ Email: abuabdu99@gmail.com  
@@ -16,8 +16,8 @@ Whether it's integrating diverse data sources, designing data models, or streaml
 ---
 ## Professional Skills
 - ✅ Data Engineering: ETL/ELT Pipelines, Data Modeling, Data Warehousing, SQL Optimization
-- ✅ Cloud Platforms: AWS (S3, SNS/SQS), GCP, Snowflake
-- ✅ Languages/Tools: Python, SQL, GitHub, VS Code, BigQuery, Docker
+- ✅ Cloud Platforms: Azure, Databricks, DBT, Snowflake
+- ✅ Languages/Tools: Python, SQL, Azure, Azure DevOps, Github, VS Code, Airflow, Docker
 - ✅ Others: Pipeline Monitoring, Data Validation, Automation, CI/CD
 
 ---
@@ -42,6 +42,7 @@ Whether it's integrating diverse data sources, designing data models, or streaml
 - Data Engineering
 - ETL Pipeline Development
 - Data Modeling
+- Databricks
 - SnowFlake
 - Microsoft Azure
 - SQL Development
@@ -51,13 +52,12 @@ Whether it's integrating diverse data sources, designing data models, or streaml
 ###  📫 Tech Toolbox
 - Airflow
 - DBT
-- BigQuery
-- Snowpipe
-- Snowpark 
-- Azure Data Factory
+- Databricks
+- Azure Repo
 - Power BI
 - Git
 - Chat GPT
+- Claude
 - Draw.io
 - Notion
 
